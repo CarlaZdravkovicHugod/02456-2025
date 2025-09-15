@@ -26,3 +26,19 @@ If you are interested in some PyTorch code bases check out the following links:
 - [PyTorch examples](https://github.com/pytorch/examples)
 - [PyTorch tutorials](https://github.com/pytorch/tutorials)
 - [Discuss PyTorch on the Forums](https://discuss.pytorch.org/)
+
+
+# Personal Changes:
+
+Whenever you want updates from the original repo:
+```bash
+
+git fetch upstream
+git checkout main          # or master, depending on repo
+git merge upstream/main
+
+```
+Then push:
+```bash
+git push origin main
+```
