@@ -34,8 +34,8 @@ Whenever you want updates from the original repo:
 ```bash
 
 git fetch upstream
-git checkout main          # or master, depending on repo
-git merge upstream/main
+git checkout master          # or master, depending on repo
+git merge upstream/master
 
 ```
 Then push:
