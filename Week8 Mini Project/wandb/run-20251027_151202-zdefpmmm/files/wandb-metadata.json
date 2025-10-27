@@ -1,0 +1,28 @@
+{
+  "os": "Linux-6.1.155-1.el9.elrepo.x86_64-x86_64-with-glibc2.34",
+  "python": "CPython 3.9.21",
+  "startedAt": "2025-10-27T14:12:02.027457Z",
+  "program": "/zhome/7a/d/187526/Desktop/02456-2025/Week8 Mini Project/8.1 Kaggle Leaf Challenge.ipynb",
+  "codePath": "Week8 Mini Project/8.1 Kaggle Leaf Challenge.ipynb",
+  "codePathLocal": "8.1 Kaggle Leaf Challenge.ipynb",
+  "git": {
+    "remote": "https://github.com/CarlaZdravkovicHugod/02456-2025.git",
+    "commit": "627415c06c7aca7181c790aef948bbe69396bd5f"
+  },
+  "email": "carlahugod@gmail.com",
+  "root": "/zhome/7a/d/187526/Desktop/02456-2025/Week8 Mini Project",
+  "host": "hpclogin1",
+  "executable": "/zhome/7a/d/187526/Desktop/02456-2025/.venv/bin/python",
+  "cpu_count": 16,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "76817485824",
+      "used": "8288825344"
+    }
+  },
+  "memory": {
+    "total": "810200023040"
+  },
+  "writerId": "row75zw7nexcnb134spvbtyyol0f9evw"
+}

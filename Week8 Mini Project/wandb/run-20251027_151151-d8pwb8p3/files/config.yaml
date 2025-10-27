@@ -1,0 +1,82 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            sj1vg60754uf53czudfme1cxqxz1gan6:
+                codePath: Week8 Mini Project/8.1 Kaggle Leaf Challenge.ipynb
+                codePathLocal: 8.1 Kaggle Leaf Challenge.ipynb
+                cpu_count: 16
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "76817485824"
+                        used: "8288739328"
+                email: carlahugod@gmail.com
+                executable: /zhome/7a/d/187526/Desktop/02456-2025/.venv/bin/python
+                git:
+                    commit: 627415c06c7aca7181c790aef948bbe69396bd5f
+                    remote: https://github.com/CarlaZdravkovicHugod/02456-2025.git
+                host: hpclogin1
+                memory:
+                    total: "810200023040"
+                os: Linux-6.1.155-1.el9.elrepo.x86_64-x86_64-with-glibc2.34
+                program: /zhome/7a/d/187526/Desktop/02456-2025/Week8 Mini Project/8.1 Kaggle Leaf Challenge.ipynb
+                python: CPython 3.9.21
+                root: /zhome/7a/d/187526/Desktop/02456-2025/Week8 Mini Project
+                startedAt: "2025-10-27T14:11:51.361511Z"
+                writerId: sj1vg60754uf53czudfme1cxqxz1gan6
+        m: []
+        python_version: 3.9.21
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 2
+                - 16
+            "4": 3.9.21
+            "5": 0.22.2
+            "8":
+                - 1
+            "12": 0.22.2
+            "13": linux-x86_64
+architecture:
+    value: Conv + GRU
+batch_size:
+    value: 64
+conv_out_channels:
+    value: 128
+conv_pad:
+    value: 1
+conv_stride:
+    value: 1
+epochs:
+    value: 10000
+gamma:
+    value: 0.8
+image_size:
+    value:
+        - 128
+        - 128
+        - 1
+kernel_size:
+    value: 3
+learning_rate:
+    value: 0.001
+num_classes:
+    value: 99
+num_features:
+    value: 64
+rnn_hidden_size:
+    value: 12
+step_size:
+    value: 100
+validation_size:
+    value: 0.1
+weight_decay:
+    value: 0
